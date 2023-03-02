@@ -1,6 +1,11 @@
 NguyenMinhKhoa_1911066296
+<<<<<<< HEAD
 ====
 line2
+=======
+line1
+===
+>>>>>>> fca5538bc4500873e1f179b88d4f603e7de744bc
 ===
 line4
 line5
